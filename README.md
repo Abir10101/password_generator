@@ -3,8 +3,6 @@
 
 A simple password generator app written in c++.
 
-
-
 ## Dependencies
 
 1. cmake
@@ -14,14 +12,23 @@ A simple password generator app written in c++.
   
 ## Installation 
 
-Follow steps:-
-
+1. Clone the repo.
 ```bash 
-1. mkdir build
-2. cd build
-3. cmake ..
-4. make
-5. ./main  
+git clone https://github.com/Abir10101/password_generator.git
+```
+2. Make build folder
+```bash 
+mkdir build
+cd build
+```
+3. Compile the program
+```bash 
+cmake ..
+make
+```
+4. Run
+```bash 
+./main
 ```
 Enjoy!
     
