@@ -16,7 +16,7 @@ A simple password generator app written in c++.
 ```bash 
 git clone https://github.com/Abir10101/password_generator.git
 ```
-2. Make build folder
+2. Execute the commands
 ```bash 
 cd password_generator
 ./build.sh
