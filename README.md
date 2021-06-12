@@ -9,7 +9,7 @@ A simple password generator app written in c++.
 2. make
 3. C++11 compiler
 
-  
+
 ## Installation 
 
 1. Clone the repo.
