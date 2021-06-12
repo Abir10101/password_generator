@@ -18,15 +18,15 @@ git clone https://github.com/Abir10101/password_generator.git
 ```
 2. Make build folder
 ```bash 
-mkdir build
+mkdir build && cd build
 ```
 3. Compile the program
 ```bash 
-cmake -S . -B ./build/ && build/make
+cmake -S .. -B . && make
 ```
 4. Run
 ```bash 
-build/password_generator
+./password_generator
 ```
 Enjoy!
     
