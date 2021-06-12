@@ -19,7 +19,7 @@ git clone https://github.com/Abir10101/password_generator.git
 2. Make build folder
 ```bash 
 cd password_generator
-sh ./build.sh
-sh ./run.sh
+./build.sh
+./run.sh
 ```
 And thats it. Enjoy!
