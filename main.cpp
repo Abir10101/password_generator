@@ -1,5 +1,5 @@
 #include <iostream>
-#include "passgen.cpp"
+#include "libs/passgen.h"
 
 int main(int argc, char** argv) {
 	int length;
