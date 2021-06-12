@@ -1,0 +1,1 @@
+std::string passgen( int length );
