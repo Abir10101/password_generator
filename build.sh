@@ -1,4 +1,6 @@
 #! /bin/sh
 
-cd build; 
+mkdir build;
+cmake -S . -B build/;
+cd build;  
 make;
